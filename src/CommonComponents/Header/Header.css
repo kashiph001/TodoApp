@@ -1,0 +1,10 @@
+.header_outer_container {
+    height: 90px;
+    position: fixed;
+    display: flex;
+    align-items: center;
+    top: 1px;
+    background-color: #fff;
+    padding-left: 50px;
+    width: 100%;
+}

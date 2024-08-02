@@ -1,0 +1,13 @@
+.todo_items {
+    display: flex;
+}
+.icon_text_container {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+}
+.icon_container {
+    display: flex;
+    gap: 10px;
+}
